@@ -1,0 +1,19 @@
+[2021-02-19-16-18-10] - test_01.py - test_01 - test_001 - 11 - INFO - logging information
+[2021/02/20 09:25:28] INFO [test_001.py:8] test_003: zhanghq
+[2021/02/20 10:19:53] INFO [test_jiafa.py:5] test_jia: zhanghq
+[2021/02/20 10:20:21] INFO [test_jiafa.py:6] test_jia: zhanghq
+[2021/02/20 10:20:56] INFO [test_jiafa.py:7] test_jia: zhanghq1
+[2021/02/20 10:20:56] INFO [test_jiafa.py:7] test_jia: zhanghq2
+[2021/02/20 10:20:56] INFO [test_jiafa.py:7] test_jia: zhanghq3
+[2021/02/20 10:22:02] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 10:22:02] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/02/20 10:22:34] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 10:22:34] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/02/20 10:23:24] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 10:23:24] INFO [test_jiafa.py:7] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/02/20 10:23:46] INFO [test_jiafa.py:12] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 10:23:46] INFO [test_jiafa.py:12] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/02/20 10:26:57] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 10:26:57] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/02/20 14:42:55] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/02/20 14:42:55] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
