@@ -4,6 +4,12 @@ from os.path import dirname,abspath,join
 import logging
 # 项目路径
 basedir=abspath(dirname(__file__))
+
+# 截图存放路径
+printscreen_path=join(basedir,'printscreen')
+
+
+
 #日志配置
 # noinspection PyArgumentList
 logging.basicConfig(level=logging.INFO,

@@ -19,3 +19,87 @@
 [2021/02/20 14:42:55] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
 [2021/02/22 16:38:03] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
 [2021/02/22 16:38:03] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/16 14:51:33] INFO [test_log.py:10] test_02: 测试登录qq邮箱
+[2021/03/16 15:36:56] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 15:39:42] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:01:04] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:01:04] INFO [beas_page.py:25] my_sleep: 强制等待2
+[2021/03/16 16:01:06] INFO [beas_page.py:14] my_element: 定位器，元素是：('xpath', "//input[@id='u']")
+[2021/03/16 16:26:38] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:50:59] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:51:45] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:51:46] ERROR [beas_page.py:48] wait_find: 定位元素失败,定位的元素是
+[2021/03/16 16:53:31] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 16:53:32] ERROR [beas_page.py:48] wait_find: 定位元素失败,定位的元素是
+[2021/03/16 19:45:46] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 19:45:47] ERROR [beas_page.py:48] wait_find: 定位元素失败,定位的元素是
+[2021/03/16 19:46:08] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 19:46:09] ERROR [beas_page.py:48] wait_find: 定位元素失败,定位的元素是
+[2021/03/16 19:49:11] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 19:49:12] ERROR [beas_page.py:49] wait_find: 定位元素失败,定位的元素是：('xpath', "//input[@id='u1']"),图片id是：97499
+[2021/03/16 20:25:28] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 20:25:28] INFO [beas_page.py:77] iframe_enter: 切入框架login_frame
+[2021/03/16 20:34:15] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 20:34:15] INFO [beas_page.py:78] iframe_enter: 切入框架login_frame
+[2021/03/16 20:34:15] INFO [beas_page.py:34] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/16 20:37:48] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/16 20:37:48] INFO [beas_page.py:78] iframe_enter: 切入框架login_frame
+[2021/03/16 20:37:48] INFO [qq_login_page.py:13] user_input_method: 像登录用户框输入数据，数据是3091356800
+[2021/03/16 20:37:48] INFO [beas_page.py:34] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/17 14:39:18] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:40:58] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:41:00] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:47:20] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:48:06] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:50:44] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:50:46] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:47] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:48] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:50] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:51] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:52] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:53] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:50:55] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 14:51:39] INFO [beas_page.py:52] my_sleep: 强制等待2秒
+[2021/03/17 14:51:41] INFO [beas_page.py:19] my_element: 定位器，元素是：('xpath', "//div[@id='u1']//span[text()='设置']")
+[2021/03/17 15:22:17] INFO [beas_page.py:140] select_pull: 在//select[@class]选择框选择:河北
+[2021/03/17 15:23:27] INFO [beas_page.py:140] select_pull: 在//select[@class]选择框选择:河北
+[2021/03/17 15:23:28] INFO [beas_page.py:53] my_sleep: 强制等待2秒
+[2021/03/17 15:23:30] INFO [beas_page.py:140] select_pull: 在//select[@class]选择框选择:北京
+[2021/03/17 15:42:14] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/17 15:42:14] INFO [beas_page.py:87] iframe_enter: 切入框架login_frame
+[2021/03/17 15:42:14] INFO [qq_login_page.py:14] user_input_method: 向用户框输入用户名，数据是：3091356800
+[2021/03/17 15:42:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/17 15:42:15] INFO [qq_login_page.py:19] pwd_input_method: 向密码框输入密码，数据是：zhq0508.
+[2021/03/17 15:42:15] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:42:15] INFO [qq_login_page.py:23] loggin_button_method: 点击登录按钮
+[2021/03/17 15:42:15] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:43:14] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/17 15:43:14] INFO [beas_page.py:87] iframe_enter: 切入框架login_frame
+[2021/03/17 15:43:14] INFO [qq_login_page.py:14] user_input_method: 向用户框输入用户名，数据是：3091356800
+[2021/03/17 15:43:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/17 15:43:14] INFO [qq_login_page.py:19] pwd_input_method: 向密码框输入密码，数据是：zhq0508.
+[2021/03/17 15:43:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:43:14] INFO [qq_login_page.py:23] loggin_button_method: 点击登录按钮
+[2021/03/17 15:43:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:43:15] INFO [beas_page.py:57] my_sleep: 强制等待20秒
+[2021/03/17 15:44:17] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/17 15:44:17] INFO [beas_page.py:87] iframe_enter: 切入框架login_frame
+[2021/03/17 15:44:17] INFO [qq_login_page.py:14] user_input_method: 向用户框输入用户名，数据是：3091356800
+[2021/03/17 15:44:17] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/17 15:44:18] INFO [qq_login_page.py:19] pwd_input_method: 向密码框输入密码，数据是：zhq0508.
+[2021/03/17 15:44:18] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:44:18] INFO [qq_login_page.py:23] loggin_button_method: 点击登录按钮
+[2021/03/17 15:44:18] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpth', "//a[@class='login_button']/input")
+[2021/03/17 15:44:18] ERROR [beas_page.py:47] wait_find: 定位元素失败,定位的元素是：('xpth', "//a[@class='login_button']/input"),图片id是：15254
+[2021/03/17 15:44:18] INFO [beas_page.py:74] screenshot: 调用截图函数，进行截图
+[2021/03/17 15:49:27] INFO [test_log.py:11] test_02: 测试登录qq邮箱
+[2021/03/17 15:49:27] INFO [beas_page.py:87] iframe_enter: 切入框架login_frame
+[2021/03/17 15:49:28] INFO [qq_login_page.py:14] user_input_method: 向用户框输入用户名，数据是：3091356800
+[2021/03/17 15:49:28] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']")
+[2021/03/17 15:49:28] INFO [qq_login_page.py:19] pwd_input_method: 向密码框输入密码，数据是：zhq0508.
+[2021/03/17 15:49:28] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//input[@id='u']/following::input[1]")
+[2021/03/17 15:49:28] INFO [qq_login_page.py:23] loggin_button_method: 点击登录按钮
+[2021/03/17 15:49:28] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpth', "//a[@class='login_button']/input")
+[2021/03/17 15:49:28] ERROR [beas_page.py:47] wait_find: 定位元素失败,定位的元素是：('xpth', "//a[@class='login_button']/input"),图片id是：17156
+[2021/03/17 15:49:28] INFO [beas_page.py:74] screenshot: 调用截图函数，进行截图
