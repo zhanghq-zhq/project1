@@ -103,3 +103,535 @@
 [2021/03/17 15:49:28] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpth', "//a[@class='login_button']/input")
 [2021/03/17 15:49:28] ERROR [beas_page.py:47] wait_find: 定位元素失败,定位的元素是：('xpth', "//a[@class='login_button']/input"),图片id是：17156
 [2021/03/17 15:49:28] INFO [beas_page.py:74] screenshot: 调用截图函数，进行截图
+[2021/03/18 19:13:27] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 19:13:27] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 19:18:20] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 19:18:20] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 19:20:07] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 19:20:07] INFO [test_jiafa.py:13] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 19:20:07] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 19:20:07] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 19:40:12] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\test\\test_api\\test_jiafa.py', reloading
+[2021/03/18 21:46:09] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 21:46:10] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 21:46:10] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 21:46:10] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 21:46:22] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 21:46:22] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 21:48:38] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 21:48:40] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 21:48:40] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 21:48:40] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 21:49:01] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 21:49:02] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 21:49:02] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 21:49:02] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 21:49:10] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 21:49:10] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 21:49:10] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 21:49:10] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 21:51:06] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 21:51:06] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 21:51:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 21:51:06] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 21:51:12] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 21:51:12] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 21:51:12] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 21:51:12] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 21:53:44] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 21:53:44] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 21:53:44] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 21:53:44] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:22] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:09:24] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:09:24] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:09:24] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:09:32] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 22:09:32] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[1m[35mPOST /runa HTTP/1.1[0m" 500 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/18 22:09:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:09:32] "[37mGET /runa?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/18 22:10:01] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:10:02] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:10:02] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:10:02] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:10:03] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 22:10:03] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 22:10:03] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:10:03] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 22:10:19] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:10:19] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:10:30] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:10:30] "[33mPOST /run HTTP/1.1[0m" 404 -
+[2021/03/18 22:10:40] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:10:42] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:10:42] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:10:42] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:10:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:10:47] "[33mPOST /run HTTP/1.1[0m" 404 -
+[2021/03/18 22:10:56] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:10:56] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:11:00] "[33mPOST /run HTTP/1.1[0m" 404 -
+[2021/03/18 22:11:39] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:11:41] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:11:41] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:11:41] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:11:43] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:11:43] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:11:48] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 22:11:48] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 22:11:48] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:11:48] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/18 22:12:50] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:12:53] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:12:53] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:12:53] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:12:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:12:53] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:14:08] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:14:08] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:14:09] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/18 22:14:09] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:14:10] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:14:10] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:14:10] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:14:13] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:14:15] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:14:15] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:14:15] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:14:16] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:14:16] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:14:31] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:14:33] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:14:33] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:14:33] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:14:34] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:14:34] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:17:20] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:17:22] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:17:22] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:17:22] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:17:26] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:17:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:18:24] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:18:26] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:18:26] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:18:26] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:18:26] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:18:26] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:31:02] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:31:04] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:31:04] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:31:04] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:31:30] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:31:30] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:36:22] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 22:36:22] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 22:36:46] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 22:36:46] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 22:38:22] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/18 22:38:22] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:38:46] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:38:47] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:38:47] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:38:47] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:38:50] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:38:50] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:40:11] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:40:13] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:40:13] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:40:13] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:40:15] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:40:15] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:48:57] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/18 22:48:57] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:48:59] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:48:59] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:48:59] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:51:09] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:51:11] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:51:11] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:51:11] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:51:13] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:51:13] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:57:08] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:57:09] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:57:09] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:57:09] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:57:11] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:57:11] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:59:04] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:59:06] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:59:06] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:59:06] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:59:16] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:59:16] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 22:59:30] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 22:59:32] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 22:59:32] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 22:59:32] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 22:59:34] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 22:59:34] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 23:03:13] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 23:03:15] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 23:03:15] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 23:03:15] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 23:03:17] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 23:03:17] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 23:08:45] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/18 23:08:47] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/18 23:08:47] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/18 23:08:47] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/18 23:08:49] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 23:08:49] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/18 23:10:02] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/18 23:10:02] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/18 23:10:02] INFO [_internal.py:122] _log: 127.0.0.1 - - [18/Mar/2021 23:10:02] "[37mPOST /runa HTTP/1.1[0m" 200 -
+[2021/03/19 09:45:04] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 09:45:05] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 09:45:05] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 09:45:05] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 09:45:10] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 09:45:10] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 09:45:10] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 09:45:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021/03/19 09:46:29] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 09:46:31] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 09:46:31] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 09:46:31] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 09:46:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 09:46:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 09:48:59] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 09:49:01] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 09:49:01] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 09:49:01] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 09:50:15] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 09:50:15] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 09:55:57] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/19 09:55:57] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/19 09:56:35] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/19 09:56:35] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/19 09:57:13] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/19 09:57:13] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/19 09:57:51] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 1.0, 'data2': 2.0, 'assert': 3.0}
+[2021/03/19 09:57:51] INFO [test_jiafa.py:15] test_jia: zhanghq{'data1': 2.0, 'data2': 2.0, 'assert': 4.0}
+[2021/03/19 10:06:48] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:06:48] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:06:50] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:06:50] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:06:50] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:08:22] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:08:22] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:08:23] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:08:23] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:08:23] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:10:46] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:10:48] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:10:48] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:10:48] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:10:52] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:10:52] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[1m[35mPOST /testapi HTTP/1.1[0m" 500 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:00] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:11:35] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:11:37] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:11:37] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:11:37] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:11:43] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:11:43] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 10:13:46] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:13:48] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:13:48] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:13:48] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:13:50] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:13:50] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 10:13:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:13:53] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 10:15:24] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:15:24] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:15:26] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:15:26] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:15:26] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:18:02] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:18:04] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:18:04] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:18:04] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:18:14] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:18:14] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:20] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:22:20] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:22:21] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:22:21] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:22:22] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:22:27] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:22:28] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:22:28] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:22:28] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:22:33] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:33] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[1m[35mPOST /testapi HTTP/1.1[0m" 500 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:22:46] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:22:46] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:27:23] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:27:23] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:27:24] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:27:24] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:27:24] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:27:53] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:27:53] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:32:10] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:32:12] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:32:12] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:32:12] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:32:18] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:32:18] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 10:32:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:32:25] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 10:32:42] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:32:42] "[37mGET / HTTP/1.1[0m" 200 -
+[2021/03/19 10:34:31] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:34:31] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:34:33] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:34:33] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:34:33] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:34:35] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:34:37] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:34:37] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:34:37] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:34:40] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:34:40] "[33mGET / HTTP/1.1[0m" 404 -
+[2021/03/19 10:34:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:34:47] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 10:58:44] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:58:46] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:58:46] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:58:46] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:58:50] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:58:50] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 10:58:52] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:58:52] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:05] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:05] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[1m[35mPOST /testapi HTTP/1.1[0m" 500 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:06] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 10:59:29] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 10:59:29] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:59:31] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:59:31] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:59:31] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:59:36] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:36] "[33mGET / HTTP/1.1[0m" 404 -
+[2021/03/19 10:59:40] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:40] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:47] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 10:59:49] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 10:59:49] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 10:59:49] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 10:59:49] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:49] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:51] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:51] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:52] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:52] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:52] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:52] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:53] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:53] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:53] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:53] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:53] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:54] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:54] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:54] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:54] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:54] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:54] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:54] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:54] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 10:59:54] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 10:59:54] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/03/19 11:00:28] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:00:28] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 11:00:48] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:00:48] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 11:01:00] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:01:00] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 11:03:30] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 11:03:30] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 11:03:31] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 11:03:31] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 11:03:32] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 11:05:43] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 11:05:45] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 11:05:45] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 11:05:45] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 11:05:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:05:47] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 11:06:09] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:06:09] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 11:06:17] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:06:17] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 11:06:41] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:06:41] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 11:07:28] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 11:07:30] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 11:07:30] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 11:07:30] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 11:07:32] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 11:07:32] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:07:27] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:07:29] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:07:29] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:07:29] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:07:31] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:07:31] "[33mGET / HTTP/1.1[0m" 404 -
+[2021/03/19 15:07:36] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:07:36] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:08:01] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:08:01] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 15:08:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:08:06] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:10:52] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:10:54] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:10:54] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:10:54] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:10:59] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:10:59] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[1m[35mPOST /testapi HTTP/1.1[0m" 500 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:25] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:25] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 15:11:44] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:11:44] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:12:29] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:12:29] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 15:14:54] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\flask_run\\falsk_run.py', reloading
+[2021/03/19 15:14:54] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:14:56] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:14:56] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:14:56] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:14:59] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:15:00] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:15:00] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:15:00] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:15:21] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:21] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[1m[35mPOST /testapi HTTP/1.1[0m" 500 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+[2021/03/19 15:15:47] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:15:47] "[37mGET /testapi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+[2021/03/19 15:16:40] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:16:42] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:16:42] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:16:42] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:16:44] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:16:44] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:17:10] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:17:10] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 15:17:17] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:17:17] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:35:20] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 15:35:22] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 15:35:22] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 15:35:22] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 15:35:31] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:35:31] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 15:35:49] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:35:49] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 15:36:04] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 15:36:04] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 16:36:23] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 16:36:24] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 16:36:24] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 16:36:24] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/19 16:36:30] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 16:36:30] "[33mGET / HTTP/1.1[0m" 404 -
+[2021/03/19 16:36:30] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 16:36:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021/03/19 16:36:33] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 16:36:33] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 16:36:57] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 16:36:57] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/03/19 16:37:11] INFO [_internal.py:122] _log: 127.0.0.1 - - [19/Mar/2021 16:37:11] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/03/19 16:49:11] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\test\\test_api\\test_001.py', reloading
+[2021/03/19 16:49:11] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/03/19 16:49:13] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/03/19 16:49:13] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/03/19 16:49:13] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/03/24 19:23:54] INFO [szy_login_page.py:13] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:23:54] INFO [beas_page.py:39] wait_find: 通过显示等待定位admin
+[2021/03/24 19:23:54] ERROR [beas_page.py:47] wait_find: 定位元素失败,定位的元素是：admin,图片id是：13805
+[2021/03/24 19:23:54] INFO [beas_page.py:74] screenshot: 调用截图函数，进行截图
+[2021/03/24 19:27:49] INFO [szy_login_page.py:13] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:27:49] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:28:10] INFO [szy_login_page.py:13] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:28:10] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:30:55] INFO [szy_login_page.py:13] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 19:30:55] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:27:26] INFO [szy_login_page.py:29] login_method: 开始登录
+[2021/03/24 20:27:26] INFO [szy_login_page.py:15] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:27:26] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:27:26] INFO [szy_login_page.py:19] pwd_input_method: 输入密码：logtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/24 20:27:26] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:27:26] INFO [szy_login_page.py:24] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/24 20:27:26] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/24 20:28:09] INFO [szy_login_page.py:29] login_method: 开始登录
+[2021/03/24 20:28:09] INFO [szy_login_page.py:15] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:28:09] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:28:09] INFO [szy_login_page.py:19] pwd_input_method: 输入密码：logtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/24 20:28:09] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/24 20:28:09] INFO [szy_login_page.py:24] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/24 20:28:09] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/24 20:28:37] INFO [szy_login_page.py:29] login_method: 开始登录
+[2021/03/24 20:28:37] INFO [szy_login_page.py:15] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:28:37] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/24 20:28:37] INFO [szy_login_page.py:19] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/24 20:28:37] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/24 20:28:37] INFO [szy_login_page.py:24] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/24 20:28:37] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 09:52:14] INFO [szy_login_page.py:25] login_method: 开始登录
+[2021/03/25 09:52:14] INFO [szy_login_page.py:12] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 09:52:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 09:52:14] INFO [szy_login_page.py:16] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 09:52:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 09:52:14] INFO [szy_login_page.py:20] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 09:52:14] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 09:52:18] INFO [method_page.py:11] click_goods_method: 点击商品管理，元素是:('xpath', "//*[text()='商品管理']")
+[2021/03/25 09:52:18] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']")
+[2021/03/25 09:52:29] ERROR [beas_page.py:47] wait_find: 定位元素失败,定位的元素是：('xpath', "//*[text()='商品管理']"),图片id是：13281
+[2021/03/25 09:52:29] INFO [beas_page.py:74] screenshot: 调用截图函数，进行截图
+[2021/03/25 09:56:01] INFO [szy_login_page.py:25] login_method: 开始登录
+[2021/03/25 09:56:01] INFO [szy_login_page.py:12] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 09:56:01] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 09:56:01] INFO [szy_login_page.py:16] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 09:56:01] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 09:56:01] INFO [szy_login_page.py:20] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 09:56:01] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 09:56:09] INFO [method_page.py:11] click_goods_method: 点击商品管理，元素是:('xpath', "//*[text()='商品管理']")
+[2021/03/25 09:56:09] INFO [beas_page.py:87] iframe_enter: 切入框架menu_frame
+[2021/03/25 09:56:09] INFO [beas_page.py:57] my_sleep: 强制等待2秒
+[2021/03/25 09:56:11] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']")
+[2021/03/25 10:11:00] INFO [szy_login_page.py:25] login_method: 开始登录
+[2021/03/25 10:11:00] INFO [szy_login_page.py:12] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 10:11:00] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/03/25 10:11:00] INFO [szy_login_page.py:16] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 10:11:00] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/03/25 10:11:01] INFO [szy_login_page.py:20] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 10:11:01] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/03/25 10:11:04] INFO [method_page.py:23] click_check_goods_list_method: 点击入住商品管理，元素是：('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/03/25 10:11:04] INFO [method_page.py:12] click_goods_method: 点击商品管理，元素是:('xpath', "//*[text()='商品管理']")
+[2021/03/25 10:11:04] INFO [beas_page.py:87] iframe_enter: 切入框架menu_frame
+[2021/03/25 10:11:04] INFO [beas_page.py:57] my_sleep: 强制等待2秒
+[2021/03/25 10:11:06] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']")
+[2021/03/25 10:11:06] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/04/06 15:14:51] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/04/06 15:14:52] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/04/06 15:14:52] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/04/06 15:14:52] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/04/06 15:14:57] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:14:57] "[33mGET / HTTP/1.1[0m" 404 -
+[2021/04/06 15:14:57] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:14:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2021/04/06 15:15:06] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:15:06] "[33mGET /api_test HTTP/1.1[0m" 404 -
+[2021/04/06 15:15:22] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:15:22] "[1m[31mGET /testapi HTTP/1.1[0m" 405 -
+[2021/04/06 15:15:36] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:15:36] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/04/06 15:24:30] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:24:30] "[37mPOST /testapi HTTP/1.1[0m" 200 -
+[2021/04/06 15:24:39] INFO [_internal.py:122] _log: 127.0.0.1 - - [06/Apr/2021 15:24:39] "[37mGET /api HTTP/1.1[0m" 200 -
+[2021/04/06 15:35:20] INFO [szy_login_page.py:25] login_method: 开始登录
+[2021/04/06 15:35:20] INFO [szy_login_page.py:12] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/04/06 15:35:20] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/04/06 15:35:20] INFO [szy_login_page.py:16] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/04/06 15:35:20] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/04/06 15:35:20] INFO [szy_login_page.py:20] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/04/06 15:35:20] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/04/06 15:35:21] INFO [method_page.py:25] click_check_goods_list_method: 点击入住商品管理，元素是：('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/04/06 15:35:21] INFO [method_page.py:14] click_goods_method: 点击商品管理，元素是:('xpath', "//*[text()='商品管理']")
+[2021/04/06 15:35:21] INFO [beas_page.py:87] iframe_enter: 切入框架menu_frame
+[2021/04/06 15:35:22] INFO [beas_page.py:57] my_sleep: 强制等待2秒
+[2021/04/06 15:35:24] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']")
+[2021/04/06 15:35:24] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/04/06 15:38:00] INFO [szy_login_page.py:25] login_method: 开始登录
+[2021/04/06 15:38:00] INFO [szy_login_page.py:12] user_input_method: 输入用户名：admin，元素是('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/04/06 15:38:00] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[1]")
+[2021/04/06 15:38:00] INFO [szy_login_page.py:16] pwd_input_method: 输入密码：longtest123456，元素是('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/04/06 15:38:00] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[2]")
+[2021/04/06 15:38:00] INFO [szy_login_page.py:20] click_login_button_method: 点击登录按钮，元素是('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/04/06 15:38:00] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='用户名']/following::input[4]")
+[2021/04/06 15:38:02] INFO [method_page.py:25] click_check_goods_list_method: 点击入住商品管理，元素是：('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/04/06 15:38:02] INFO [method_page.py:14] click_goods_method: 点击商品管理，元素是:('xpath', "//*[text()='商品管理']")
+[2021/04/06 15:38:02] INFO [beas_page.py:87] iframe_enter: 切入框架menu_frame
+[2021/04/06 15:38:02] INFO [beas_page.py:57] my_sleep: 强制等待2秒
+[2021/04/06 15:38:04] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']")
+[2021/04/06 15:38:04] INFO [beas_page.py:39] wait_find: 通过显示等待定位('xpath', "//*[text()='商品管理']/following::a[2]")
+[2021/04/06 16:28:54] INFO [_internal.py:122] _log:  * Detected change in 'E:\\project1\\conftest.py', reloading
+[2021/04/06 16:28:54] INFO [_internal.py:122] _log:  * Restarting with stat
+[2021/04/06 16:28:56] WARNING [_internal.py:122] _log:  * Debugger is active!
+[2021/04/06 16:28:56] INFO [_internal.py:122] _log:  * Debugger PIN: 224-747-740
+[2021/04/06 16:28:56] INFO [_internal.py:122] _log:  * Running on http://127.0.0.1:8865/ (Press CTRL+C to quit)
+[2021/04/08 16:44:24] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 262361462}
+[2021/04/08 16:44:25] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 140604335}
+[2021/04/08 16:49:49] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 395857611}
+[2021/04/08 16:49:50] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 58956669}
+[2021/04/08 16:50:44] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 465150208}
+[2021/04/08 16:50:44] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': 132853411}
+[2021/04/08 16:52:55] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '652021337'}
+[2021/04/08 16:52:56] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '486269376'}
+[2021/04/08 16:56:29] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '534965579'}
+[2021/04/08 16:56:31] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '494731270'}
+[2021/04/08 17:00:25] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '618311097'}
+[2021/04/08 17:00:27] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '718720492'}
+[2021/04/08 17:00:33] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '286091563'}
+[2021/04/08 17:00:34] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '698533942'}
+[2021/04/08 17:02:07] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '16001380'}
+[2021/04/08 17:02:08] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '797793880'}
+[2021/04/08 17:02:22] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '450494501'}
+[2021/04/08 17:02:23] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '843063423'}
+[2021/04/08 17:02:35] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '737316354'}
+[2021/04/08 17:02:36] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '171647207'}
+[2021/04/08 17:03:46] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '524588353'}
+[2021/04/08 17:03:48] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '835218019'}
+[2021/04/08 17:05:55] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '653224696'}
+[2021/04/08 17:05:57] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '640018105'}
+[2021/04/08 17:06:37] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '177339331'}
+[2021/04/08 17:06:39] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '564930342'}
+[2021/04/08 17:08:01] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '224817956'}
+[2021/04/08 17:08:37] INFO [test_001.py:13] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '52753228'}
+[2021/04/08 17:12:00] INFO [test_001.py:12] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '986981512'}
+[2021/04/08 19:12:08] INFO [test_001.py:12] test_001: 测试添加加油卡，添加的数据是：{'cardNumber': '388987024'}

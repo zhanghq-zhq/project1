@@ -1,10 +1,14 @@
 """全局配置文件"""
 
+
 from os.path import dirname,abspath,join
+
+
 import logging
 # 项目路径
 basedir=abspath(dirname(__file__))
 
+print(basedir)
 # 截图存放路径
 printscreen_path=join(basedir,'printscreen')
 
@@ -27,3 +31,15 @@ DB_CONFIG_DEV = {
     'user': 'root',
     'password': 'root'
 }
+
+
+LT_db_config={
+    'host': '115.28.108.130',
+    'port': 3306,
+    'database': 'longtengserver',
+    'user': 'test',
+    'password': 'abc123456',
+    'charset':'utf8'
+
+}
+
