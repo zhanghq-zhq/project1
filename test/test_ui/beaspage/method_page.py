@@ -9,7 +9,6 @@ class Goods_Method_Page(Beas_Page):
     check_goods_list_loc=("xpath","//*[text()='商品管理']/following::a[2]")
     add_goods_loc=("xpath","//*[text()='商品管理']/following::a[3]")
 
-
     def click_goods_method(self):
         logging.info(f"点击商品管理，元素是:{self.goods_loc}")
         self.iframe_enter("menu_frame")

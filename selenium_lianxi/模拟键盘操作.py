@@ -9,6 +9,7 @@ sleep(1)
 driver.get('file:///E:/学习相关资料/自动化学习课件/selenium_demo/selenium.html')
 
 driver.find_element('xpath',"//*[text()='双击']/following::input[1]").send_keys(Keys.CONTROL,'a')
+driver.find_element('xpath',"//*[text()='双击']/following::input[1]").send_keys(Keys.CONTROL,'a')
 sleep(1)
 driver.find_element('xpath',"//*[text()='双击']/following::input[1]").send_keys(Keys.CONTROL,'c')
 sleep(1)

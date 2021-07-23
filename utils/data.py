@@ -22,7 +22,6 @@ def get_sheet(datapath,sheet_name):
 
 
 
-
 if __name__ == '__main__':
 
 	a=get_sheet("E:\\project1\\data\\test_data.xls","Sheet1")
