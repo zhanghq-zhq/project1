@@ -1,0 +1,61 @@
+{
+  "uid" : "9e7e6466f1562ae6",
+  "name" : "test_003",
+  "fullName" : "test.test_api.test_001.Test_login#test_003",
+  "historyId" : "ba1300e13436d95999db4e6ba5e71025",
+  "time" : {
+    "start" : 1617889053869,
+    "stop" : 1617889053869,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2\n  -1\n  +2",
+  "statusTrace" : "self = <test.test_api.test_001.Test_login object at 0x0000012970362128>\n\n    def test_003(self):\n>       assert 1==2\nE       assert 1 == 2\nE         -1\nE         +2\n\ntest_001.py:39: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test.test_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-5T9ABC0"
+  }, {
+    "name" : "thread",
+    "value" : "20088-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_api.test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9e7e6466f1562ae6.json",
+  "parameterValues" : [ ]
+}

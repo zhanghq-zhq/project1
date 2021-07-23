@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"failed","test.test_api.test_001.Test_login#test_003","0",""
+"failed","test.test_api.test_001.Test_login#test_004","1",""
+"failed","test.test_api.test_001.Test_login#test_002","1",""
+"failed","test.test_api.test_001.Test_login#test_006","0",""
+"passed","test.test_api.test_001.Test_login#test_001","802",""

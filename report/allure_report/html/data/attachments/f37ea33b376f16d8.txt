@@ -1,0 +1,1 @@
+INFO     root:test_001.py:12 测试添加加油卡，添加的数据是：{'cardNumber': '700458479'}

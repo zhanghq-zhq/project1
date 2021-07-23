@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test.test_api",
+    "children" : [ {
+      "name" : "test_001",
+      "children" : [ {
+        "name" : "Test_login",
+        "children" : [ {
+          "name" : "test_001[x0]",
+          "uid" : "1c89dbed558d947",
+          "parentUid" : "afdd9a99ecf07579e683e0a9185ab5ef",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617889052897,
+            "stop" : 1617889053699,
+            "duration" : 802
+          },
+          "flaky" : false,
+          "parameters" : [ "{'cardNumber': '700458479'}" ]
+        }, {
+          "name" : "test_006",
+          "uid" : "aac4952a48ac6353",
+          "parentUid" : "afdd9a99ecf07579e683e0a9185ab5ef",
+          "status" : "failed",
+          "time" : {
+            "start" : 1617889053710,
+            "stop" : 1617889053710,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_002",
+          "uid" : "eebbd68550ae5a0f",
+          "parentUid" : "afdd9a99ecf07579e683e0a9185ab5ef",
+          "status" : "failed",
+          "time" : {
+            "start" : 1617889053856,
+            "stop" : 1617889053857,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_003",
+          "uid" : "9e7e6466f1562ae6",
+          "parentUid" : "afdd9a99ecf07579e683e0a9185ab5ef",
+          "status" : "failed",
+          "time" : {
+            "start" : 1617889053869,
+            "stop" : 1617889053869,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_004",
+          "uid" : "673dd5b16c57e0b7",
+          "parentUid" : "afdd9a99ecf07579e683e0a9185ab5ef",
+          "status" : "failed",
+          "time" : {
+            "start" : 1617889053884,
+            "stop" : 1617889053885,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "afdd9a99ecf07579e683e0a9185ab5ef"
+      } ],
+      "uid" : "1b78ea4a81d857274023214096d5c345"
+    } ],
+    "uid" : "29259ad0a8af13d50d36ebade805444a"
+  } ]
+}
