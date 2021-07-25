@@ -13,6 +13,7 @@ from config import logging
 class Beas_Page():
     """该类是WEB UI测试基础方法类"""
 
+
     def __init__(self, driver: webdriver.Chrome):
         self.driver = driver
 
